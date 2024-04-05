@@ -2,6 +2,8 @@
 #include <vector>
 #include <iostream>
 #include <fstream>
+#include <stdexcept>
+#include <limits>
 
 /*
 used to clear the input buffer
